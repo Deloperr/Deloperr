@@ -2,7 +2,7 @@
 
 <!-- Заголовок -->
 <h1 align="center">Привет — я Артем 👋</h1>
-<p align="center">Люблю в первую очередь работать с бэком💻🌙</p>
+<p align="center">Люблю в первую очередь работать с бэком💻</p>
 
 <!-- Бейджи -->
 <p align="center">
@@ -23,8 +23,8 @@
 ---
 
 ## Навыки
-- **Языки:** Python, SQL, Bash, C++, C, JavaScript, Kotlin
-- **Фреймворки / инструменты:** Django, Flask, FastAPI, Docker, PostgreSQL
+- **Языки:** Python, SQL, Bash, C++, C, JavaScript, Java, Kotlin
+- **Фреймворки / инструменты:** Django, Flask, Docker, PostgreSQL
 - **Прочее:** REST API, миграции баз, unit-тесты, CI (GitHub Actions)
 
 ---
